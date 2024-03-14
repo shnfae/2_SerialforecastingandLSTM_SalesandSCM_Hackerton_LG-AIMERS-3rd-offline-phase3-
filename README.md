@@ -1,6 +1,6 @@
 # LG-AIMERS-3th-bonson
 
-
+[데이콘 -온라인 채널 제품 판매량 예측 AI 오프라인 해커톤](https://dacon.io/competitions/official/236156/overview/description)
 
 
 ## 배운점
