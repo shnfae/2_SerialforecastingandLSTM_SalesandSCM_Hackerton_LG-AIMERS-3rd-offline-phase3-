@@ -1,11 +1,10 @@
 # LG-AIMERS-3th-bonson
 
-[데이콘 -온라인 채널 제품 판매량 예측 AI 오프라인 해커톤](https://dacon.io/competitions/official/236156/overview/description)
 
 ## 1) 대회 및 문제소개
 - 약 1년 반치의 과거 판매데이터 및 각 판매제품의 정보를 통해 온라인 채널 제품 판매량 약 1달을 예측
-- 온라인 대회의 후속 프로그램으로 약 100명, 약 40팀 대상으로 진행한 오프라인 해커톤
-
+- LGAIMERS는 AI교육 및 LG의 실제 데이터를 기반으로 AI 해커톤 프로그램 [LG-AIMERS 사이트](https://lgaimers.ai)
+- 온라인 대회의 후속 프로그램으로 약 100명, 약 40팀 대상으로 진행한 오프라인 해커톤 [데이콘 -온라인 채널 제품 판매량 예측 AI 오프라인 해커톤](https://dacon.io/competitions/official/236156/overview/description)
 
 ### 주최,주관 정보
 - 주최 : LG AI Research
