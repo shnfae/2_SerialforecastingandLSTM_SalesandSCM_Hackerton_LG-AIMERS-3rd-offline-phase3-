@@ -1,4 +1,4 @@
-# LG-AIMERS-3th-bonson
+# SerialforecastingandLSTM_SalesandSCM_Hackerton_LG-AIMERS-3rd-offline(phase3)
 
 
 ## 1) 대회 및 문제소개
