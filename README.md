@@ -12,6 +12,10 @@
 - 참여 : 한경닷컴
 - 장소 : 경기도 여주 LG인화원
 
+### 언론보도 및 홍보영상
+- [LG, 청년 AI 전문가 양성 위한 LG 에이머스 해커톤 개최 | 한국경제](https://www.hankyung.com/article/2023091749877)
+- [※AI 분야 취준생 클릭※ 실무 데이터 오픈+인사담당자 출동+수상하면 서류 합격 기회까지, 싹 다 퍼주는 LG 대외활동 | 썰풀G EP.6 | LG Aimers - YouTube](https://www.youtube.com/watch?v=c_owzL6waHA&t=273s)
+
 ## 2) 데이터 소개
 - 약 29,000개의 판매상품의 1년 반치의 판매량 시계열 데이터와 각 판매상품의 대분류,중분류,소분류,브랜드, 쇼핑몰 정보
 - 그 외 일별 매출총액, 일별 브랜드 언급도, 그리고 각 상품의 제품 텍스트 정보
@@ -99,3 +103,8 @@
 
 ## 7) 참고
 - 현재 오프라인 데이터 원본은 주최, 주관측에서 공개하지 않으므로 공유하지 않습니다.
+
+
+## 8) 사진
+![image](https://github.com/shnfae/SerialforecastingandLSTM_SalesandSCM_Hackerton_LG-AIMERS-3rd-offline-phase3-/assets/142771746/8894abed-b158-4f41-9599-e8436388c08b)
+![image](https://github.com/shnfae/SerialforecastingandLSTM_SalesandSCM_Hackerton_LG-AIMERS-3rd-offline-phase3-/assets/142771746/b8e6ac13-f3a0-4c90-bb6b-d36671908c70)
